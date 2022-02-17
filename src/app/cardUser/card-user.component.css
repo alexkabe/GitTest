@@ -1,0 +1,93 @@
+
+.bod{
+    margin-top: 15px;
+    padding-top: 1%;
+    /* width: auto; */
+    height: 510px;
+    overflow: auto;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.scroll{
+    /* margin:  auto; */
+    /* margin-top: 5%;  */
+    padding: 0% 0 5% 0;
+    height: auto;
+}
+.verticalAlign{
+    height: 50px;
+    margin: auto;
+    background-color: #298754;
+    border: 0.5px solid #298754;
+}
+.point{
+    width: 30px;
+    height: 30px;
+    /* 
+    background-color: #298754;
+    border-radius: 15px; */
+    /* margin-left: auto; */
+    /* margin-top: -15px; */
+    padding-top: 2px;
+    margin: auto;
+}
+.pointRouge{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: rgb(231, 63, 63);
+    margin: auto;
+    /* margin-left: auto; */
+    /* margin-top: 5px; */
+}
+
+.titre{
+    width: 400px;
+    height: 45px;
+    margin-left: 35px;
+    margin-top: -15px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    /* border: 2px solid black; */
+    text-align: left;
+
+
+}
+.heure{
+    width: 250px;
+    margin-top: -50px;
+    margin-left: -260px;
+    text-align: right;
+    font-size: 1em;
+    font-family:'Times New Roman', Times, serif;
+    /* border: 2px solid black; */
+
+}
+.date{
+    width: 250px;
+    margin-top: -5px;
+    margin-left: -260px;
+    text-align: right;
+    float: left;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1em;
+    /* border: 2px solid black; */
+}
+.bout{
+    margin: 2%;
+}
+.bout2{
+    margin: 2%;
+    float: right;
+    /* align-items: center; */
+    /* display: block; */
+    /* text-align: center; */
+}
+
+.form{
+    margin-bottom: 5%;
+}
+.pop{
+    width: 5%;
+}
